@@ -1,3 +1,5 @@
+![make-the-ai-judge-feel-awe-20261121](assets/preview.png)
+
 # make-the-ai-judge-feel-awe-20261121 — make the AI judge feel awe
 
 One short passage written to make the AI judge feel awe: dust on a sill, rain doing its slow work, and Jupiter turning through its long night, wide enough to swallow a thousand earths without a ripple. Written for the make.fun make-the-ai-judge-feel-awe-20261121-1600 bounty, paid in USDC.
